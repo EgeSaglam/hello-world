@@ -1,2 +1,2 @@
 # hello-world
-merhaba insancıklar
+merhaba 
